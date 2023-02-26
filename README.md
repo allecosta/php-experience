@@ -8,5 +8,5 @@
   - Ecossistema e Documentação
   - Tipos de Variáveis
   - Estruturas Condicionais e de Repetição
-  - Constants
+
 
