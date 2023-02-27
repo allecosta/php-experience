@@ -9,4 +9,10 @@
   - Tipos de Variáveis
   - Estruturas Condicionais e de Repetição
 
+- [Tratamento de Exceções e Programação Orientada a Objetos](/02-POO)
+  - Debug e Tratamento de Exceções
+  - Gerenciamento de Pacotes com Composer
+  - Programação Orientada a Objetos
+  
+
 
