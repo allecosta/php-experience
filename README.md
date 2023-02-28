@@ -13,6 +13,11 @@
   - Debug e Tratamento de Exceções
   - Gerenciamento de Pacotes com Composer
   - Programação Orientada a Objetos
+
+- [Desenvolvimento de APIs com Laravel](/03-APIs)
+  - Orientação a Objetos, Exceções e Banco de dados
+  - APIs REST
+  - Desenvolvimento Avançado
   
 
 
