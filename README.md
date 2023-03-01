@@ -17,7 +17,11 @@
 - [Desenvolvimento de APIs com Laravel](/03-APIs)
   - Orientação a Objetos, Exceções e Banco de dados
   - APIs REST
-  - Desenvolvimento Avançado
+  - Desenvolvimento Avançado em PHP
+  - Desenvolvendo API em Laravel
+
+- [Projeto](https://github.com/allecosta/challenge-dio.git)
   
+
 
 
