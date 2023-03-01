@@ -20,7 +20,7 @@
   - Desenvolvimento Avançado em PHP
   - Desenvolvendo API em Laravel
 
-- [Projeto](https://github.com/allecosta/challenge-dio.git)
+*[Projeto: Challenge DIO API Laravel](https://github.com/allecosta/challenge-dio.git)*
   
 
 
